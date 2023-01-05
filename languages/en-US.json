@@ -1,0 +1,7 @@
+{
+	"name":"English (United States)",
+	"id":"en-US",
+	"values":{
+		"FUNCTION_NOT_IMPLEMENTED_ANYKEY_TO_EXIT":"This function isn't implemented. Press any key to exit."
+	}
+}

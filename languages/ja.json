@@ -1,0 +1,7 @@
+{
+	"name":"日本語",
+	"id":"ja",
+	"values":{
+		"FUNCTION_NOT_IMPLEMENTED_ANYKEY_TO_EXIT":"この機能は実装されていません。任意のキーを押して終了します。"
+	}
+}
